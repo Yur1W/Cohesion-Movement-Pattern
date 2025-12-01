@@ -21,6 +21,10 @@ In this project, the NPCs use forces calculated from vectors (distance, directio
 
 - Visual Organization: by applying Cohesion together with Seek/Evade, the NPCs do not spread randomly across the level, instead, they tend to remain close to their group while still reacting to the player’s movement.
 
+## Links
+
+[PlayUnity](https://play.unity.com/en/games/ad2baca4-2618-4545-a32f-18356889008f/webgl-builds)
+
 ## References
 
 [Prática em Laboratório UNITY – Comportamentos de Direção (Steering Behaviors) – Curso Tecnológico em Jogos Digitais](https://github.com/user-attachments/files/23847566/praticaSB-UNITY.pdf)
